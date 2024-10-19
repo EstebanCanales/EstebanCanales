@@ -9,8 +9,8 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en mi proyecto: [SP-CEDES](https://github.com/EstebanCanales/SPCEDES-PAGE)
-- 🌱 Estoy aprendiendo **Next.js** y **Express**
+- 🔭 Actualmente trabajando en mi proyecto: [CRATOASTRO](https://github.com/EstebanCanales/CRATOASTRO)
+- 🌱 Estoy aprendiendo **Nestjs** 
 - 📫 Puedes contactarme en: **estebancomoprogramador@gmail.com**
 
 ---
@@ -18,7 +18,7 @@
 ### 🌐 Conéctate conmigo:
 
 <p align="left">
-  <a href="https://www.leetcode.com/esteban_canales_monge" target="blank">
+  <a href="https://leetcode.com/estebancanales/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode de Esteban Canales Monge" height="30" width="40" />
   </a>
 </p>
