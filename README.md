@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Esteban Canales Monge</h1>
-<h3 align="center">Estudiante del Colegio Técnico Profesional Cedes Don Bosco</h3>
+<h3 align="center">Estudiante del Colegio Técnico Profesional Cedes Don Bosco apacionado por el desarrollo web | Student at Cedes Don Bosco Technical High School, passionate about web development.</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EstebanCanales&show_icons=true&locale=es" alt="EstebanCanales" />
