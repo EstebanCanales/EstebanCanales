@@ -35,7 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,bash,php,lua,figma,arduino)](https://skillicons.dev)
 
 ---
-### 🛠️ Herramientas:
+### 🛠️ Herramientas dev:
 
 <p align="left">
   
