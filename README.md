@@ -9,7 +9,6 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en mi proyecto: [CRATOASTRO](https://github.com/EstebanCanales/CRATOASTRO)
 - 🌱 Estoy aprendiendo **Nestjs** 
 - 📫 Puedes contactarme en: **estebancomoprogramador@gmail.com**
 
