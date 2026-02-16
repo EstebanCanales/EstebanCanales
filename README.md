@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Esteban Canales Monge</h1>
-<h3 align="center">Estudiante del Colegio Técnico Profesional Cedes Don Bosco apacionado por el desarrollo web | Student at Cedes Don Bosco Technical High School, passionate about web development.</h3>
+<h1 align="center">Hello 👋, My name is Esteban Canales Monge</h1>
+<h3 align="center">Student at Cedes Don Bosco Technical High School, passionate about web development. </h3>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EstebanCanales&show_icons=true&locale=es" alt="EstebanCanales" />
@@ -7,20 +7,12 @@
 -->
 ---
 
-### 🚀 Sobre mí
+### 🚀 🚀 About Me
 
-- 🌱 Estoy aprendiendo **Nestjs** 
-- 📫 Puedes contactarme en: **estebancomoprogramador@gmail.com**
-
----
-
-### 🌐 Conéctate conmigo:
-
-<p align="left">
-  <a href="https://leetcode.com/estebancanales/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode de Esteban Canales Monge" height="30" width="40" />
-  </a>
-</p>
+•	🌱 I’m currently learning Laravel
+•	🌎 I live in Costa Rica
+•	☕️ I love coffee
+•	📫 You can reach me at: estebancomoprogramador@gmail.com
 
 ---
 
@@ -38,6 +30,6 @@
 
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,nextjs,react,tailwind,astro,linux,npm,bun,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,nestjs,laravel,svelte,nextjs,react,tailwind,astro,linux,npm,bun,vite)](https://skillicons.dev)
 
 </p>
